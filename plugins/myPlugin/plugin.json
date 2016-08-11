@@ -1,0 +1,22 @@
+{
+  "author":"SUPINFO AppFactory"
+,"pluginName":"Hello World"
+,"pluginDescription":"Bare bones plugin showing simple autonomy of a plugin"
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [],
+  "languages" : ["en"]
+}

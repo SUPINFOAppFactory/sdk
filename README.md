@@ -46,7 +46,7 @@ the control has 3 sections/__sub folder__ *each of which have their own index.ht
 The Widget is the part that is rendered on the device. It consumes the configuration made from the control and displays the output.
 
 
-![Control Panel](https://dl.dropboxusercontent.com/s/ib51wv5e5agshv3/AppFActoryPanel.png?dl=0)
+![Control Panel](https://dl.dropboxusercontent.com/s/3x284a9g2aoetw0/ControlPanelAppFact.png?dl=0)
 
 
 #### the Resources (folder)

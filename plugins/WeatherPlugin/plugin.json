@@ -1,0 +1,22 @@
+{
+"author":""
+,"pluginName":"Weather Plugin Example"
+,"pluginDescription":"JQuery + Datastore "
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [],
+  "languages" : ["en"]
+}

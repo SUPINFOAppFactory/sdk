@@ -44,11 +44,13 @@
 				if (data && data.list && data.list.length) {
 					/// fill in the UI with the new data
 					var report = data.list[0];
-					var celciusTem = (report.main.temp-273.15).toFixed(1);
+					var celciusTem = (report.main.temp-273.15).toFixed(2);
+					var lowTemp = (report.main.temp_min-273.15).toFixed(2);
+					var highTemp = (report.main.temp_max-273.15).toFixed(2);
 					$('#location').text(report.name);
-					$('#summary').text(report.weather.description);
+					$('#summary').text(report.weather[0].description);
 					$('#temp').text(celciusTem + " degrees");
-					$('#rang').text("Low: " + report.main.temp_min + " - High: " + report.main.temp_max);
+					$('#range').text("Low: " + lowTemp + " - High: " + highTemp);
 					$('#clouds').text(report.clouds.all > 50 ? "Cloudy" : "Clear Skys");
 				}
 			});

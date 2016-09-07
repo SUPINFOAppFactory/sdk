@@ -9,7 +9,7 @@ https://www.youtube.com/playlist?list=PLwtaFxpz5rWw_FQWZRGsBuP117_kGaGuw
 ##Dev Environment
 If you havent setup your environment just yet click here https://github.com/SUPINFOAppFactory/sdk/wiki/How-to-setup-your-development-environment to get started
 
-[Video Tutorial Here]()
+[Video Tutorial Here](https://www.youtube.com/playlist?list=PLwtaFxpz5rWw_FQWZRGsBuP117_kGaGuw)
 
 
 ## Plugins
